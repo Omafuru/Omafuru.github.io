@@ -408,6 +408,7 @@ img {
 .about__description{
   text-align: center;
   margin-bottom: var(--mb-2-5);
+  margin-top: 5px
 }
 
 .about__info{
